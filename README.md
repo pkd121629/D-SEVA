@@ -23,12 +23,12 @@ commenting and donating.
 
 - **Responsive Design:** Multer for managing image uploads and storage.
 
-- ## Installation
-- **Backend Setup**
+ ## Installation
+ **Backend Setup**
 - **npm install**
 - **npm run server**
 
-- **frontend Setup**
+ **frontend Setup**
 - **cd client**
 - **npm install**
 - **npm start**
