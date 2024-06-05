@@ -27,10 +27,11 @@ commenting and donating.
 - **Backend Setup**
 - **npm install**
 - **npm run server**
-**frontend Setup**
-**cd client**
-**npm install**
-**npm start**
+
+- **frontend Setup**
+- **cd client**
+- **npm install**
+- **npm start**
 
   
 
