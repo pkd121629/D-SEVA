@@ -22,3 +22,15 @@ commenting and donating.
 - **Like and Comment:** Users can like and comment on posts, enabling interaction and engagement.
 
 - **Responsive Design:** Multer for managing image uploads and storage.
+
+- ## Installation
+- **Backend Setup**
+- **npm install**
+- **npm run server**
+**frontend Setup**
+**cd client**
+**npm install**
+**npm start**
+
+  
+
