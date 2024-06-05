@@ -2,7 +2,7 @@
 Developed a common platform for fundraising for the needy using the MERN stack, featuring secure access controls. Users have the ability to register for a new account, log in, add friends to their network, and engage with posts by liking, commenting and donating.
 
 ## Technology
-FrontEnd: React.js, Redux, Material-UI for responsive design and state management.
+## FrontEnd:React.js, Redux, Material-UI for responsive design and state management.
 Backend: Node.js, Express.js for server-side logic.
 Database: MongoDB for storing user information, posts, and interactions.
 Authentication: JSON Web Tokens (JWT) for secure authentication and authorization.
